@@ -1,0 +1,2 @@
+# Prorefiner_myStructure
+ProrefinerのColab版をPDBコードではなく、自分でPDBファイルをアップロードする形に変更したコード
